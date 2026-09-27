@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.catsbit.oxidesurvivalisland"
+          description: "com.tencent.rmos"
           required: true
 
 jobs:
